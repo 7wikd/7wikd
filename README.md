@@ -11,7 +11,7 @@
  Research projects that involve hands-on working environments (mostly in the field of Machine Learning and Deep Learning).
  
  ### How to reach me?
- [GitHub](https://github.com/7wikd/)
+ [GitHub](https://github.com/7wikd/) <br />
  [Instagram](https://www.instagram.com/7wikd/)
  
  
