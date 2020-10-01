@@ -14,6 +14,11 @@
  [GitHub](https://github.com/7wikd/) <br />
  [Instagram](https://www.instagram.com/7wikd/)
  
+ ## My Github Repo Stats 📈
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=7wikd&show_icons=true&title_color=73ffbb&icon_color=73ffbb&text_color=73ffbb&bg_color=151515&count_private=true&hide_title=true" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7wikd&show_icons=true&title_color=73ffbb&icon_color=73ffbb&text_color=fff&bg_color=151515&count_private=true&layout=compact" />
  
 <!--
 **7wikd/7wikd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
