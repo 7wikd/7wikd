@@ -3,14 +3,14 @@
  I enthusiastically indulge in articles based on the workings of Machine Learning algorithms, as well as the Principles of Mathematics. Why? Cuz I like that.
  
  ## Moving on...
- ### I'm currently working on...
+ ### 🔭 I'm currently working on...
  Deep Learning Projects that revolve around Speech and Medical Imaging.
  Projects also include Hardware and Sensing, as I used to study Electronics during High School
  
- ### I'm looking to collaborate on...
+ ###  👯 I'm looking to collaborate on...
  Research projects that involve hands-on working environments (mostly in the field of Machine Learning and Deep Learning).
  
- ### How to reach me?
+ ### 📫 How to reach me?
  [GitHub](https://github.com/7wikd/) <br />
  [Instagram](https://www.instagram.com/7wikd/)
  
