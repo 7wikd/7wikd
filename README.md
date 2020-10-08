@@ -1,6 +1,6 @@
 ### Hi there 👋
  I'm Satwik Dalvi, a Junior pursuing Information Technology at Bharati Vidyapeeth College of Engineering, Pune. 
- I enthusiastically indulge in articles based on the workings of Machine Learning algorithms, as well as the Principles of Mathematics. Why? Cuz I like that.
+ I enthusiastically indulge in articles based on the workings of Machine Learning algorithms, as well as Mathematics in general. Why? Cuz I enjoy that.
  
  ## Moving on...
  ### 🔭 I'm currently working on...
