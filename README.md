@@ -1,5 +1,5 @@
 ### Hi there 👋
- I'm Satwik Dalvi, a Junior pursuing Information Technology at Bharati Vidyapeeth College of Engineering, Pune. 
+ I'm Satwik Dalvi, currently in my Junior year pursuing Information Technology at Bharati Vidyapeeth College of Engineering, Pune. 
  I enthusiastically indulge in articles based on the workings of Machine Learning algorithms, as well as Mathematics in general. Why? Cuz I enjoy that.
  
  ## Moving on...
