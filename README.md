@@ -1,5 +1,5 @@
 ### Hi there 👋
- I'm Satwik Dalvi, a current Postgraduate student pursuing my Master's degree in Artificial Intelligence from the University of Edinburgh, Scotland. I graduated with a Bachelor's degree in Information Technology from Bharati Vidyapeeth College of Engineering, Pune. 
+ I'm Satwik Dalvi, a current Postgraduate student pursuing my Master's degree in Artificial Intelligence from the University of Edinburgh, United Kingdom. I graduated with a Bachelor's degree in Information Technology from Bharati Vidyapeeth College of Engineering, Pune. 
  I enthusiastically indulge in articles based on the workings of Machine Learning algorithms, as well as Mathematics in general. Why? Cuz I enjoy that.
  
  ## Moving on...
