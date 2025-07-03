@@ -6,7 +6,7 @@
  - Deep Learning Projects.
  - Projects also include Hardware and Sensing, as I used to study Electronics during High School
  
-   👯 I'm looking to collaborate on...
+👯 I'm looking to collaborate on...
    
  Research projects that involve hands-on working environments (mostly in the field of Machine Learning and Deep Learning).
  
